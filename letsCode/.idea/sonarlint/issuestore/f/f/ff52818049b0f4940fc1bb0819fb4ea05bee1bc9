@@ -1,0 +1,11 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(ώη–λωÿÿÿÿ8®Μαγ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(σΖÒηϊÿÿÿÿ8΄Μαγ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(σΖÒηϊÿÿÿÿ8ΉΜαγ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(σΖÒηϊÿÿÿÿ8»Μαγ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(σΖÒηϊÿÿÿÿ8ΌΜαγ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(πέ“8ΎΜαγ/
+
+java:S1192"]Define a constant instead of duplicating this literal "Digite o nome de outra fruta" 4 times.(σΖÒηϊÿÿÿÿ8ΐΜαγ/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(π®σ™ώÿÿÿÿ

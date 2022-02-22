@@ -1,0 +1,13 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ç¿Áî
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“åïûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“åïûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“åïûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(“åïûÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(ÏÑŸ×
+S	java:S106,"9Replace this use of System.out or System.err by a logger.(´ôñˆıÿÿÿÿ
+J
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š
+p
+java:S1192"UDefine a constant instead of duplicating this literal "Digite outro nÃºmero" 4 times.(“åïûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ğ®ó™şÿÿÿÿ

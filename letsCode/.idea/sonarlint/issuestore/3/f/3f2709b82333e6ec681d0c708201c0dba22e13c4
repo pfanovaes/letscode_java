@@ -1,0 +1,9 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(μ‹θόÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ή€Ά―
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ή€Ά―
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ή€Ά―
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ή€Ά―
+i
+java:S1192"SDefine a constant instead of duplicating this literal "Digite outro nome:" 4 times.(Ή€Ά―
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(π®σ™ώÿÿÿÿ
