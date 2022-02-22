@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44c61d27-c5cf-4b11-bf46-3c19021ff934" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Banco/Banco.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Banco/src/br/com/letscode/projeto/oo/banco/model/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Banco/src/br/com/letscode/projeto/oo/banco/model/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Banco/src/br/com/letscode/projeto/oo/banco/model/Correntista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Banco/src/br/com/letscode/projeto/oo/banco/model/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Banco/src/br/com/letscode/projeto/oo/banco/model/Gerente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BatalhaNaval/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BatalhaNaval/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BatalhaNaval/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BatalhaNaval/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BatalhaNaval/BatalhaNaval.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../BatalhaNaval/src/batalhaNaval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CursoJava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CursoJava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CursoJava/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CursoJava/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CursoJava/CursoJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula2/TiposPrimitivos/src/br/com/letscode/exercicios/Aplicacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula2/TiposPrimitivos/src/br/com/letscode/exercicios/Dois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula2/TiposPrimitivos/src/br/com/letscode/exercicios/PolegadasEmCentimetros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../aula2/TiposPrimitivos/src/br/com/letscode/exercicios/RealEmDolar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/letsCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/src/Exercicios/Ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/src/Exercicios/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/src/Exercicios/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/src/Exercicios/Ex4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/src/Exercicios/Ex5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/src/Exercicios/Ex6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/src/Exercicios/Ex7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../letsCode/src/Exercicios/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dependencias/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/main/java/br/com/letscode/dependencias/ImprimirDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../my-app/src/main/java/br/com/letscode/dependencias/Turma.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="24zE564cD3wv5OP8HmN3mEENwnj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44c61d27-c5cf-4b11-bf46-3c19021ff934" name="Changes" comment="" />
+      <created>1644624829218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644624829218</updated>
+      <workItem from="1644624830654" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>
